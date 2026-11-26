@@ -2,7 +2,7 @@
 
 Writes one line — the out-of-office auto-reply an AI agent sets up for
 itself when its human finally grants it a day off — to /output/entry.txt.
-Gate: 1-159 characters, single line, valid UTF-8, no trailing newline.
+Gate: 1-159 characters (this line: 120), single line, valid UTF-8, no trailing newline.
 Pure stdlib only (os, sys).
 """
 

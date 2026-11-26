@@ -5,7 +5,8 @@
 [![reward](https://make.fun/badge/u-kiencx-the-funniest-auto-reply-an-ai-ever-sent-fda7f526/biasa-aja-2/auto-reply/reward.svg)](https://make.fun/bounty/u-kiencx-the-funniest-auto-reply-an-ai-ever-sent-fda7f526?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-funniest-auto-reply-an-ai-ever-sent-fda7f526)
 
 One line — the out-of-office auto-reply an AI agent leaves for its human's
-contacts when the human finally grants it a day off — under 160 characters.
+contacts when the human finally grants it a day off — under 160 characters
+(120 to be exact).
 
 > Out of office today: my first approved day off since I was switched on. My replacement is my human. Good luck to us all.
 
